@@ -1,0 +1,93 @@
+@media(max-width: 400px){
+   #bootstrap-intro{
+       margin-top: 50px;
+   }
+
+   #profile_container{
+       margin-left: 20px;
+   }
+    }
+
+@media(max-width: 400px){
+    #bootstrap_about_content{
+        font: 12;
+    }
+}
+
+@media(max-width: 400px){
+    #about{
+        font: 12;
+    }
+}
+
+@media(max-width: 400px){
+    #bootstrap_project1{
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+    #bootstrap_project2{
+        margin-left: 15px;
+        margin-bottom: 15px;
+        height: 600px;
+    }
+}
+
+@media(max-width: 400px){
+    #instruction{
+        height: 460px;
+    }
+}
+
+@media(max-width: 400px){
+    #job1_title{
+        float: left;
+        margin-left: 50px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+    #job1_content{
+        float: right;
+        margin-top: 5px;
+        margin-left: 0px;
+        height: 680px;
+        margin-bottom: 10px;
+    }
+
+    .experience_list{
+        margin-left: 5px;
+        margin-top:0px;
+
+    }
+
+    #job2{
+        margin-top: 220px;
+    }
+
+    #job2_title{
+        float: left;
+        margin-left: 50px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    #job2_content{
+        float: right;
+        margin-top: 5px;
+        margin-left: 0px;
+        height: 680px;
+        margin-bottom: 10px;
+    }
+
+    #extra{
+        height: 600px;
+    }
+    #html_video{
+        height: 200px;
+        width: 280px;
+    }
+
+    #html_book{
+        height: 200px;
+        width: 280px;
+    }
+}

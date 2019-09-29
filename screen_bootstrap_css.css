@@ -1,0 +1,168 @@
+#full_name {
+    font-size: 38;
+    margin: 80px;
+}
+
+#bootstrap_profile{
+    height: 100px;
+    width:120px;
+    margin: 40px;
+    margin-top: 60px;
+    margin-left:240px;
+    border-radius: 5px;
+
+}
+
+#profile_card{
+   /* width: 50px; */
+   height: 130px;
+   float: right;
+}
+
+#card_body{
+    padding: 2px;
+}
+/* .nav{
+    margin-left: 10px;
+} */
+.nav-item{
+    padding-left: 60px;
+}
+
+#content{
+    margin-top: 40px;
+}
+
+#content_container{
+    margin-top: 30px;
+}
+
+
+
+
+/* Toggle Switch CSS Start*/
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+
+  @media(min-width: 600px){
+  #about{
+      height: 400px;
+    margin-top: 20px;
+  }
+  }
+
+  @media(min-width: 600px){
+  #bootstrap_about_content{
+      font: 68;
+  }
+}
+
+  /* Toggle Switch Button End */
+
+  #education_img{
+      margin: 10px;
+      width: 400px;
+      height: 260px;
+      float: right;
+  }
+
+  #job1_title {
+      padding: 3px;
+      height: 265px;
+      padding-left: 27px;
+      padding-top:12px;
+      width: 268px;
+      /* height: 240px; */
+  }
+
+  #job2_title{
+    padding: 3px;
+    height: 300px;
+    padding-left: 27px;
+    padding-top: 20px;
+    width: 268px;
+  }
+
+  #job1_content{
+      padding: 3px;
+      height: 268px;
+  }
+
+  #job2_content{
+       padding: 3px;
+      height: 300px;   
+  }
+
+  #bootstrap_project1{
+      background-color: whitesmoke;
+      border-radius: 15px;
+      padding: 15px;
+  }
+
+  
+  #bootstrap_project2{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+}
+
